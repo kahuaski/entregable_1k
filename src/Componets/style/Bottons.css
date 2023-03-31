@@ -1,0 +1,17 @@
+.container_button{
+    width: 200px;
+    color: aqua;
+    background-color: rgba(2, 18, 241, 0.438);
+    padding: 20px, 20px;
+    font-size: 20px;
+    border-radius: 6px;
+    display: block;
+    margin: 0,auto;
+    margin-bottom: auto;
+    cursor:pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background 200ms;
+    
+    }

@@ -1,0 +1,21 @@
+.App {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.bg {
+  background-image: url("/imagenes/espacio/img.jpg");
+}
+.bg1 {
+  background-image: url("/imagenes/espacio/img1.jpg");
+}
+.bg2 {
+  background-image: url("/imagenes/espacio/img2.jpg");
+}
+.bg3 {
+  background-image: url("/imagenes/espacio/img3.jpg");
+}
